@@ -1,4 +1,4 @@
-## Atividade 01
+# Atividade 01
 
 Withain Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software : engineering after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomesnsion to programming. Cubes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, mmimaintenance). The addition of time adds an important new dimeension to programming.
 
@@ -9,3 +9,9 @@ We see three critical differences between programming and software engineering: 
 O que é engenharia de software?
 
 - A engenharia de software é uma disciplina complexa e crucial para a criação de softwares confiáveis, eficientes e adaptáveis. Os profissionais da área assumem a responsabilidade de gerenciar o tempo, a escala e a tomada de decisões complexas, garantindo o sucesso do software durante sua vida útil.
+
+
+
+
+
+#Atividade 02
