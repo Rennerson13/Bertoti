@@ -65,7 +65,8 @@ divide o trabalho em partes menores, facilitando a criação e manutenção redu
 
 - Parte da arquitetura.
   
-  https://lucid.app/lucidchart/f052887a-164b-4648-9475-f4d7d7a88894/edit?view_items=kDts4AYwwKj9%2CkDtsSqoJMccz%2CkDtsz2e0oArx%2CkDtsLN~JjkEv%2CkDtsU8wD5.Ve%2CkDts_q01W3QE&invitationId=inv_6766f0b9-c1d1-4cfa-a9e3-b4f1a06d9416
+  ![image](https://github.com/Rennerson13/bertoti/assets/143669686/f7f6c744-174b-4b82-88fd-a1c65d91a89b)
+
 
 
 
