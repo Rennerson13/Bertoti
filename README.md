@@ -40,28 +40,38 @@ Slides da atividade
 
 24 Pequenos web sites: Eu sugeri pequenos web sites, pois como ele tem uma alta simplicidade, e a tolerância falha é baixa, acaba por sugerir que não é algo que tenha usuários frequentes, assim resultando num banco de dados pouco estruturado.
 
-Simplicity:⭐⭐⭐⭐⭐
-Fault tolerance:⭐
+-Simplicidade:⭐⭐⭐⭐⭐
+-Tolerancia a falhas:⭐
+
+
 25 Segurança de dados: Por sua estrutura simples, revela-se que a cada clique as informações do usuário irão ficar protegidas e criptografas.
 
-Overall cost:⭐⭐⭐⭐⭐
-Fault tolerance:⭐
+-Custo:⭐⭐⭐⭐⭐
+-Tolerancia a falhas:⭐
+
+
 26 Sistema operacional: Estrutura microcare para sistema operacional.
 
-Overall cost:⭐⭐⭐⭐⭐
-Scability:⭐
+-Custo:⭐⭐⭐⭐⭐
+-Escabilidade:⭐
+
+
 27 Software de serviço: Estrutura para software de serviço não especificado.
 
-Reliability:⭐⭐⭐⭐
-Elasticity:⭐⭐
+-Confiabilidade:⭐⭐⭐⭐
+-Elasticity:⭐⭐
+
+
 28 Pix: Estrutura para pix, ou outros softwares de serviços monetários.
 
-Scalability:⭐⭐⭐⭐⭐
-Simplicity:⭐
+-Confiabilidade:⭐⭐⭐⭐⭐
+-Simplicidade:⭐
+
+
 29 Serviço Nuvem: Tem uma escabilidade alta, podendo ser possível vários usuários manusear, entretanto com sua simplicidade alta deixa isso difícil.
 
-Scalability:⭐⭐⭐⭐⭐
-Simplicity:⭐
+-Escabilidade:⭐⭐⭐⭐⭐
+-Simplicidade:⭐
 
 
 
@@ -76,7 +86,8 @@ divide o trabalho em partes menores, facilitando a criação e manutenção redu
 
 - Parte da arquitetura.
   
-  ![image](https://github.com/Rennerson13/bertoti/assets/143669686/f7f6c744-174b-4b82-88fd-a1c65d91a89b)
+  ![image](https://github.com/Rennerson13/bertoti/assets/143669686/7a478fd3-d1d9-4d91-961b-6c0c41626820)
+
 
 
 
