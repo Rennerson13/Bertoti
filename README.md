@@ -32,7 +32,7 @@ Embora existam soluções como o PyInstaller para tornar o código Python execut
 - Desvantagens: Configurar e manter pipelines pode exigir tempo e conhecimento técnico, especialmente para pipelines complexos. É preciso garantir que cada etapa funcione corretamente e esteja integrada com as demais. possui uma certa fragilidade, se uma etapa do pipeline falhar, toda a cadeia de execução pode ser interrompida. É necessário implementar mecanismos de monitoramento e failover para mitigar esse risco. Dependendo da complexidade do pipeline e das ferramentas utilizadas, pode haver custos elevados associados à infraestrutura e ao licenciamento de software.
   
 
-#Atividade 03
+# Atividade 03
 
 https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tuk4U/edit#slide=id.g1f2b4e971a0_0_139
 
