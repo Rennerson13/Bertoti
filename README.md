@@ -15,24 +15,24 @@ O que é engenharia de software?
 
 # Atividade 02
 
-1 # Python:
+1 #Python:
 - Vantagens: A sintaxe clara do Python torna a linguagem menos difícil de aprender, acelerando o desenvolvimento e aumentando a produtividade. O código Python geralmente requer menos linhas para realizar a mesma tarefa que outras linguagens, economizando tempo e esforço. Possui uma extensa biblioteca padrão com módulos para tarefas comuns. É uma linguagem interpretada, o que significa que o código é executado linha por linha. Isso pode torná-la mais lenta que linguagens compiladas em tarefas intensivas em processamento.
 
 - Desvantagens: A tipagem dinâmica do Python oferece flexibilidade, mas também pode levar a erros de execução que só são detectados no momento da execução do programa.
 Embora existam soluções como o PyInstaller para tornar o código Python executável em diferentes sistemas operacionais, a portabilidade ainda não é tão fácil quanto em linguagens compiladas como Java (JVM).
 
-2 # Java:
+2 #Java:
 - Vantagens: É uma linguagem robusta e segura. O rigoroso processo de compilação e a coleta de lixo automática ajudam a prevenir erros de execução e vazamentos de memória. Portabilidade é uma vantagem,o código Java compilado em bytecode pode ser executado em qualquer plataforma com uma JVM. Isso torna o Java ideal para desenvolvimento de software multiplataforma, possui um vasto ecossistema de bibliotecas, frameworks e ferramentas de terceiros. Isso facilita o encontro de soluções prontas para problemas comuns.
 
 - Desvantagens: Embora tenha melhorado ao longo do tempo, o Java pode ser mais lento que linguagens compiladas diretamente para código de máquina, como C++. Isso pode ser uma desvantagem para tarefas intensivas em processamento. O código Java pode ser mais verboso do que algumas linguagens de script, o que significa que pode exigir mais linhas de código para realizar a mesma tarefa.  A programação orientada a objetos e a sintaxe formal do Java podem ser um pouco mais desafiadoras de aprender para iniciantes. o Java depende da JVM.-  
 
-3 # Pipeline:
+3 #Pipeline:
 - Vantagens: Pipelines automatizam tarefas repetitivas, liberando o tempo dos desenvolvedores e analistas para atividades mais estratégicas. Isso melhora a eficiência e a produtividade. Pipelines garantem a execução consistente de tarefas na mesma ordem e com os mesmos parâmetros. Isso reduz erros humanos e melhora a qualidade do output final, facilitam a replicação de resultados, tornando o processo de desenvolvimento e análise mais transparente e auditável. Se ocorrer um problema, é mais fácil identificar a etapa específica onde ele surgiu.
 
 - Desvantagens: Configurar e manter pipelines pode exigir tempo e conhecimento técnico, especialmente para pipelines complexos. É preciso garantir que cada etapa funcione corretamente e esteja integrada com as demais. possui uma certa fragilidade, se uma etapa do pipeline falhar, toda a cadeia de execução pode ser interrompida. É necessário implementar mecanismos de monitoramento e failover para mitigar esse risco. Dependendo da complexidade do pipeline e das ferramentas utilizadas, pode haver custos elevados associados à infraestrutura e ao licenciamento de software.
   
 
-# Atividade 03
+#Atividade 03
 
 https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tuk4U/edit#slide=id.g1f2b4e971a0_0_139
 
