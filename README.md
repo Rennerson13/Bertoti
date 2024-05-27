@@ -21,7 +21,7 @@ O que é engenharia de software?
 - Desvantagens: A tipagem dinâmica do Python oferece flexibilidade, mas também pode levar a erros de execução que só são detectados no momento da execução do programa.
 Embora existam soluções como o PyInstaller para tornar o código Python executável em diferentes sistemas operacionais, a portabilidade ainda não é tão fácil quanto em linguagens compiladas como Java (JVM).
 
-2 #Java:
+2 Java:
 - Vantagens: É uma linguagem robusta e segura. O rigoroso processo de compilação e a coleta de lixo automática ajudam a prevenir erros de execução e vazamentos de memória. Portabilidade é uma vantagem,o código Java compilado em bytecode pode ser executado em qualquer plataforma com uma JVM. Isso torna o Java ideal para desenvolvimento de software multiplataforma, possui um vasto ecossistema de bibliotecas, frameworks e ferramentas de terceiros. Isso facilita o encontro de soluções prontas para problemas comuns.
 
 - Desvantagens: Embora tenha melhorado ao longo do tempo, o Java pode ser mais lento que linguagens compiladas diretamente para código de máquina, como C++. Isso pode ser uma desvantagem para tarefas intensivas em processamento. O código Java pode ser mais verboso do que algumas linguagens de script, o que significa que pode exigir mais linhas de código para realizar a mesma tarefa.  A programação orientada a objetos e a sintaxe formal do Java podem ser um pouco mais desafiadoras de aprender para iniciantes. o Java depende da JVM.-  
