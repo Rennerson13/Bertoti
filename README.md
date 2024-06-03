@@ -9,13 +9,13 @@ We see three critical differences between programming and software engineering: 
 
 O que é engenharia de software?
 
-- Engenharia de software é o campo que envolve o planejamento, desenvolvimento e manutenção de softwares de forma eficiente e confiável. Os principais desafios incluem gerenciar a escala, o tempo e os trade-offs.
+ Engenharia de software é o campo que envolve o planejamento, desenvolvimento e manutenção de softwares de forma eficiente e confiável. Os principais desafios incluem gerenciar a escala, o tempo e os trade-offs.
 
-# Escala: Refere-se à capacidade do software de crescer em termos de usuários e funcionalidades. Um software escalável pode suportar mais usuários e mais dados sem perder desempenho. Por exemplo, um site de compras online deve ser capaz de lidar com milhões de usuários e produtos.
+- Escala: Refere-se à capacidade do software de crescer em termos de usuários e funcionalidades. Um software escalável pode suportar mais usuários e mais dados sem perder desempenho. Por exemplo, um site de compras online deve ser capaz de lidar com milhões de usuários e produtos.
 
-# Tempo: Inclui o tempo necessário para desenvolver o software, o tempo de resposta que ele oferece aos usuários e o tempo gasto em manutenção após o lançamento. Planejar bem o tempo de desenvolvimento e manter o software atualizado são essenciais para o sucesso do projeto.
+- Tempo: Inclui o tempo necessário para desenvolver o software, o tempo de resposta que ele oferece aos usuários e o tempo gasto em manutenção após o lançamento. Planejar bem o tempo de desenvolvimento e manter o software atualizado são essenciais para o sucesso do projeto.
 
-# Trade-offs: São escolhas difíceis que os engenheiros precisam fazer. Por exemplo, melhorar o desempenho do software pode aumentar os custos, ou adicionar muitas funcionalidades pode torná-lo mais complicado de usar e manter. Encontrar o equilíbrio certo é crucial.
+- Trade-offs: São escolhas difíceis que os engenheiros precisam fazer. Por exemplo, melhorar o desempenho do software pode aumentar os custos, ou adicionar muitas funcionalidades pode torná-lo mais complicado de usar e manter. Encontrar o equilíbrio certo é crucial.
 
 
 
