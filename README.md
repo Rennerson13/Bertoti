@@ -45,40 +45,89 @@ https://docs.google.com/presentation/d/1Lmad2CS1pM1UycQpYn6FiDm2NsEO6CVSchym65tu
 
 Slides da atividade 
 
-24 Pequenos web sites: Eu sugeri pequenos web sites, pois como ele tem uma alta simplicidade, e a tolerância falha é baixa, acaba por sugerir que não é algo que tenha usuários frequentes, assim resultando num banco de dados pouco estruturado.
-
-- Simplicidade:⭐⭐⭐⭐⭐
-- Tolerancia a falhas:⭐
+Análise dos requisitos não funcionais e tradeoffs das arquiteturas dos slides 24 à 29
 
 
-25 Segurança de dados: Por sua estrutura simples, revela-se que a cada clique as informações do usuário irão ficar protegidas e criptografas.
+- Arquitetura de Camadas
+ 
+Requisitos Não Funcionais:
+Manutenibilidade: Alta, devido à separação clara das responsabilidades.
+Escalabilidade: Moderada, pode ser escalada duplicando camadas.
+Segurança: Boa, com controle de acesso em cada camada.
 
-- Custo:⭐⭐⭐⭐⭐
-- Tolerancia a falhas:⭐
+Pontos Positivos:
+Fácil de entender e desenvolver.
+Manutenção simplificada.
+Boa separação de responsabilidades.
 
-
-26 Sistema operacional: Estrutura microcare para sistema operacional.
-
-- Custo:⭐⭐⭐⭐⭐
-- Escabilidade:⭐
-
-
-27 Software de serviço: Estrutura para software de serviço não especificado.
-
-- Confiabilidade:⭐⭐⭐⭐
-- Elasticity:⭐⭐
-
-
-28 Pix: Estrutura para pix, ou outros softwares de serviços monetários.
-
-- Confiabilidade:⭐⭐⭐⭐⭐
-- Simplicidade:⭐
+Pontos Negativos:
+Pode levar a dependências entre camadas.
+Performance pode ser impactada devido a chamadas entre camadas.
 
 
-29 Serviço Nuvem: Tem uma escabilidade alta, podendo ser possível vários usuários manusear, entretanto com sua simplicidade alta deixa isso difícil.
+- Arquitetura Pipeline
 
-- Escabilidade:⭐⭐⭐⭐⭐
-- Simplicidade:⭐
+Requisitos Não Funcionais:
+Performance: Alta, devido ao processamento paralelo.
+Escalabilidade: Boa, pode adicionar mais etapas ao pipeline.
+Manutenibilidade: Moderada, depende da complexidade das etapas.
+
+Pontos Positivos:
+Alta eficiência no processamento de dados.
+Fácil de adicionar novas etapas de processamento.
+
+Pontos Negativos:
+Debugging pode ser complicado.
+Alterações em uma etapa podem impactar outras.
+
+
+- Arquitetura Microkernel
+
+Requisitos Não Funcionais:
+Segurança: Alta, devido à separação dos serviços principais e adicionais.
+Flexibilidade: Alta, fácil de adicionar ou remover serviços.
+Resiliência: Alta, falhas em serviços não afetam o núcleo.
+
+Pontos Positivos:
+Alta modularidade e segurança.
+Resiliência a falhas de componentes individuais.
+
+Pontos Negativos:
+Performance pode ser menor devido à comunicação entre componentes.
+Pode ser mais complexo de implementar.
+
+
+- Arquitetura Baseada em Serviços
+
+Requisitos Não Funcionais:
+Reutilização: Alta, serviços podem ser reutilizados em diferentes aplicações.
+Escalabilidade: Boa, serviços podem ser escalados individualmente.
+Interoperabilidade: Alta, serviços podem se comunicar via padrões abertos.
+
+Pontos Positivos:
+Boa reutilização de componentes.
+Facilita a integração com sistemas externos.
+
+Pontos Negativos:
+Gestão de serviços pode ser complexa.
+Latência na comunicação entre serviços pode ser um problema.
+
+
+- Arquitetura de Microsserviços
+
+Requisitos Não Funcionais:
+Escalabilidade: Excelente, microsserviços podem ser escalados independentemente.
+Resiliência: Alta, falhas em um microsserviço não afetam os outros.
+Deploy e Manutenção: Independente, facilitando atualizações.
+
+Pontos Positivos:
+Alta escalabilidade e resiliência.
+Facilita o desenvolvimento e implantação contínuos.
+
+Pontos Negativos:
+Pode ser complexa de gerenciar devido ao grande número de serviços.
+Requer um bom sistema de monitoramento e coordenação.
+
 
 
 
