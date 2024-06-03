@@ -6,9 +6,16 @@ Withain Google, we sometimes say, “Software engineering is programming integra
 
 We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth.
 
+
 O que é engenharia de software?
 
-- A engenharia de software é uma disciplina complexa e crucial para a criação de softwares confiáveis, eficientes e adaptáveis. Os profissionais da área assumem a responsabilidade de gerenciar o tempo, a escala e a tomada de decisões complexas, garantindo o sucesso do software durante sua vida útil.
+- Engenharia de software é o campo que envolve o planejamento, desenvolvimento e manutenção de softwares de forma eficiente e confiável. Os principais desafios incluem gerenciar a escala, o tempo e os trade-offs.
+
+# Escala: Refere-se à capacidade do software de crescer em termos de usuários e funcionalidades. Um software escalável pode suportar mais usuários e mais dados sem perder desempenho. Por exemplo, um site de compras online deve ser capaz de lidar com milhões de usuários e produtos.
+
+# Tempo: Inclui o tempo necessário para desenvolver o software, o tempo de resposta que ele oferece aos usuários e o tempo gasto em manutenção após o lançamento. Planejar bem o tempo de desenvolvimento e manter o software atualizado são essenciais para o sucesso do projeto.
+
+# Trade-offs: São escolhas difíceis que os engenheiros precisam fazer. Por exemplo, melhorar o desempenho do software pode aumentar os custos, ou adicionar muitas funcionalidades pode torná-lo mais complicado de usar e manter. Encontrar o equilíbrio certo é crucial.
 
 
 
