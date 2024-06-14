@@ -144,6 +144,13 @@ divide o trabalho em partes menores, facilitando a criação e manutenção redu
   ![Diagrama Records (2)](https://github.com/Rennerson13/bertoti/assets/143669686/c9bcdac1-0381-4bae-8c2c-d73e8ef2ef62)
 
 
+# Atividade 08
+
+- Diagrama de caso.
+![DiagramaDeCaso](https://github.com/Rennerson13/bertoti/assets/143669686/8c047acb-de6e-4147-9af5-41ef643f3080)
+
+
+
 
 
 
