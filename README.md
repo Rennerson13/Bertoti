@@ -141,7 +141,8 @@ divide o trabalho em partes menores, facilitando a criação e manutenção redu
 # Atividade 05
 
 - Parte da arquitetura.
-  ![Diagrama Records (2)](https://github.com/Rennerson13/bertoti/assets/143669686/c9bcdac1-0381-4bae-8c2c-d73e8ef2ef62)
+![diagrama de classe](https://github.com/Rennerson13/bertoti/assets/143669686/ef089dd9-83d4-40f8-978e-2a4a107349a7)
+
 
 
 # Atividade 08
